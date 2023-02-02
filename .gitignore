@@ -1,0 +1,22 @@
+# Project exclude paths
+/client/src/components/UI/index.js
+/client/src/router/index.js
+/client/src/store/index.js
+/client/src/main.js
+/server/node_modules/
+/server/src/controllers/user-controller.js
+/server/src/dtos/user-dto.js
+/server/src/exceptions/api-error.js
+/server/src/middlewares/auth-middleware.js
+/server/src/middlewares/error-middleware.js
+/server/src/models/index.js
+/server/src/models/Product.js
+/server/src/models/Token.js
+/server/src/models/User.js
+/server/src/router/index.js
+/server/src/services/mail-service.js
+/server/src/services/product-service.js
+/server/src/services/token-service.js
+/server/src/services/user-service.js
+/server/define.js
+/server/index.js
